@@ -37,7 +37,7 @@
     "grunt-cli": "0.1.13"
   },
   "scripts": {
-    "test": "grunt --verbose",
+    "test": "grunt --verbose"
   },
   "repository": {
     "type": "git",
